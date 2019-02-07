@@ -27,7 +27,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "quamm-client-javascript": "/Users/davide/Desktop/quamm-client-javascript"
+    "quamm-client-javascript": "/Users/davide/Desktop/Git/quamm-client-javascript"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
